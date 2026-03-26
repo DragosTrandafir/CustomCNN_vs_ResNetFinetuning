@@ -41,7 +41,9 @@ Using [Weights & Biases](https://wandb.ai) to systematically compare training ru
 - Track train/test loss and accuracy per epoch across all runs
 
 - You can see the wandb reports here:
-- 
+- https://api.wandb.ai/links/dragostrandafir443-babes/j2ij00a6 - transfer-learning-lr in the notebook
+- https://api.wandb.ai/links/dragostrandafir443-babes/gtnn58yn - transfer-learning-sweep1 in the notebook
+- https://api.wandb.ai/links/dragostrandafir443-babes/k5ghfbs4 - transfer-learning-sweep2 in the notebook
 
 ---
 
