@@ -1,4 +1,4 @@
-# CNN from Scratch to Transfer Learning — Lab 3
+# CNN from Scratch to Transfer Learning
 
 A hands-on Jupyter notebook covering the fundamentals of **Convolutional Neural Networks (CNNs)**, from low-level NumPy implementations to fine-tuning a pretrained ResNet-18 model with experiment tracking via Weights & Biases.
 
@@ -39,6 +39,9 @@ Using [Weights & Biases](https://wandb.ai) to systematically compare training ru
 - Test multiple learning rates: `0.01`, `0.001`, `0.0001`
 - Compare LR schedulers: `StepLR` vs `ExponentialLR`
 - Track train/test loss and accuracy per epoch across all runs
+
+- You can see the wandb reports here:
+- 
 
 ---
 
